@@ -1,5 +1,5 @@
 
-class Solution:
+class Solution: 
 def removeOuterParentheses(self, s: str) -> str:
   result = []
   stack = []
